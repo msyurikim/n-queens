@@ -78,3 +78,4 @@ describe('Board', function() {
     ]);
   });
 });
+
